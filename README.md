@@ -1,1 +1,2 @@
-# nginx-webdefacement-njs
+# working in progress 
+Not yet ready
